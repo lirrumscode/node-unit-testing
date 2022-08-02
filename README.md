@@ -26,9 +26,9 @@ tsc --watch
 
 ## Built with 🛠️
 
-- [Node](https://reactjs.org/](https://nodejs.org/en/)
+- [Node](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Jest](https://www.w3.org/Style/CSS/Overview.en.html](https://jestjs.io/)
+- [Jest](https://jestjs.io/)
 
 
 ## Authors ✒️
