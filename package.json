@@ -1,0 +1,24 @@
+{
+  "name": "exercises",
+  "version": "0.0.1",
+  "description": "project exercices to implement unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon ./dist/HomeController/home.controller.js"
+  },
+  "author": "lirrumscode",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/jest": "^28.1.6",
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.19",
+    "ts-jest": "^28.0.7",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
